@@ -1,0 +1,29 @@
+.logo {
+    margin: 0px 0;
+}
+.navigation {
+    background: green;
+    padding: 10px;
+    border: solid;
+    text-align: center;
+}
+.navigation ul li a {
+    color: white;
+}
+.footer {
+    background: black;
+    color:white;
+    padding:50px;
+}
+.red {
+    color:red;
+}
+.blue {
+    color:blue;
+}
+.green {
+    color:green;
+}
+.purple {
+    color:purple;
+}
